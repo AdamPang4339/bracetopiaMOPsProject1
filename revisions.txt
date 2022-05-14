@@ -1,0 +1,113 @@
+commit 0d022c507a921d9e1e8003e7790e8ef79fc5305f
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Thu Feb 24 17:54:47 2022 -0500
+
+    Revised and cleaned up documentation across all files
+
+commit 97c17f031c84e39f86f416366dabcd4cfe7e433a
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Thu Feb 24 17:42:12 2022 -0500
+
+    Completed report.txt file with answers
+
+commit e26c78e17dd1c8c06de2c9c2b7e7d45f7d850f6d
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Thu Feb 24 17:26:18 2022 -0500
+
+    Fixed and cleaned up error codes and command line parsing
+
+commit 47b49a74c439917cfd4c27e94666ed1ea3db7350
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Thu Feb 24 17:02:54 2022 -0500
+
+    Fixed print mode formatting and -nan error from dividing by 0 in agent.c: 85-90
+
+commit 53487d4e95a27b5c3f2e17e18fe7eeee5d3c2a33
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Thu Feb 24 16:57:14 2022 -0500
+
+    Implemented print mode simulation display
+
+commit ef01948c1f55d409a6c1225c0606017418f0979b
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Thu Feb 24 16:29:23 2022 -0500
+
+    Added documentation for calculating team happiness
+
+commit b44eac89695e4983c65583bf609d2e02cc14fa17
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Thu Feb 24 16:26:36 2022 -0500
+
+    Implemented team happiness into ncurses display
+
+commit e511a5e3a2ee6ce33829ff920ca728adfbad8d77
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Thu Feb 24 16:03:58 2022 -0500
+
+    Incorporated ncurses display and move counter
+
+commit d842f2e4e60849802385a178eab39c5939758159
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Thu Feb 24 16:03:31 2022 -0500
+
+    Incorporated ncurses display and move counter
+
+commit 9733fc85b50b140a82bc53c4eeff7120424661a5
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Thu Feb 24 05:57:27 2022 -0500
+
+    Cleaned up code and debug print statements
+
+commit be079035e814f97580f0ec1d0d5c3e3472ada817
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Thu Feb 24 05:22:34 2022 -0500
+
+    Implemented grid movement logic within grid module
+
+commit 23744829112cd8a841d9e972e572033aa7965576
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Thu Feb 24 02:38:33 2022 -0500
+
+    Debugged and completed agent happiness
+
+commit e44d8b200d20714a94d9ed548932abd778fb32b9
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Thu Feb 24 01:33:09 2022 -0500
+
+    Created agent.c and agent.h to prepare for happiness and neighbors calculations
+
+commit a06946b44635cbb7309c2ca629c9ca8029e7db74
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Wed Feb 23 22:44:09 2022 -0500
+
+    Completed and tested command line parsing
+
+commit 0c8b44393c91c1ab1fc77c4f2087460b1a084f7b
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Wed Feb 23 22:17:07 2022 -0500
+
+    Implemented grid initialization and shuffling
+
+commit a8197c05e888bbf8231ed2440682b6e6fdc321a5
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Wed Feb 23 00:54:00 2022 -0500
+
+    Added function header documentation to methods
+
+commit 37ce46156bdd6190e7cc48118086a14359e504a6
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Wed Feb 23 00:33:35 2022 -0500
+
+    Implemented getopt() to parse command line args
+
+commit 0590797b88cd329506773c1fc49f5ac579f22440
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Wed Feb 23 00:27:08 2022 -0500
+
+    Set up environment for project and began report.txt file edits
+
+commit c1c257096dd1f4e4de38814770936c62304c0a04
+Author: AdamPang4339 <akp4339@rit.edu>
+Date:   Tue Feb 22 18:46:11 2022 -0500
+
+    Baseline commit initialized supplied materials
